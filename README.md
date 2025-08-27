@@ -9,3 +9,7 @@ irm https://hmzilla.github.io/ms |iex
 ثم تختار المنتج المطلوب من النافذة الجديدة
 
 # المنتجات المدعومة 
+<p align="center">
+  <img src="./files/pic_1.png" alt="صورة توضيحية" width="400">
+</p>
+
